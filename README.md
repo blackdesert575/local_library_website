@@ -32,7 +32,7 @@
 
 * Linux host such as Arch Linux, Debian, Ubuntu, RHEL ...etc
 * Python == 3.8.16
-* [pyenv+poetry](https://github.com/hong539/setup_dev_environment/blob/main/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [pyenv+poetry](https://github.com/blackdesert575/setup-devops-environment/blob/main/programming_languages/python/python.md#usage-with-pyenvpoetry)
     * pyenv for Python versions control
     * poetry for Project dependency control
     * Project dependcy detialls will be in pyproject.toml/poetry.lock
